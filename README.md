@@ -1,41 +1,80 @@
-## Data Analyst
-Начинающий специалист в области бизнес- и продуктовой аналитики. Владею полным циклом работы с данными: от первичной очистки и агрегации до построения визуализаций и формулирования управленческих выводов. Использую статистические подходы для проверки гипотез и поиска точек роста продукта.
+# Привет! Я Алексей 👋
 
-Ключевые навыки и инструменты:
+### Аналитик данных | SQL • Python • Excel • Power BI
 
-Языки и СУБД: SQL (PostgreSQL, написание сложных запросов с CTE, оконными функциями, подзапросами и кастомной логикой агрегации), Python (pandas, NumPy, SciPy, statsmodels).
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tgRomaton)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexvas10.05.2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romatone)
 
-Статистика и эксперименты: Дизайн и анализ A/B-тестов, расчет доверительных интервалов, когортный анализ, оценка пользовательского поведения (Retention, DAU/WAU/MAU, сегментация).
+---
 
-Визуализация и отчетность: Matplotlib, Seaborn, Jupyter Notebook, а также продвинутые возможности Excel и Google Sheets (сводные таблицы, Power Pivot, формула QUERY, интерактивные дашборды).
+## 🚀 О себе
 
-Опыт в проектах:
-В рамках практических работ реализую последовательный аналитический процесс:
+Мой путь в аналитику начался с генетики: во время учёбы я проводил исследования, работал с большими массивами данных и понял, что аналитика — это то, что мне действительно нравится. За 2,5 года прошёл путь от продавца до аналитика данных, работал с ритейлом, онлайн-кинотеатрами и мобильными играми.
 
-Выгрузка и предварительная проверка данных (качество, дубли, выбросы).
+Специализируюсь на **полном цикле аналитики**: от сбора и очистки данных до построения дашбордов и формулировки бизнес-рекомендаций. Ищу удалённую работу, где смогу развиваться и приносить пользу.
 
-Расчет ключевых продуктовых метрик и глубокая исследовательская аналитика.
+---
 
-Визуализация паттернов и трендов для наглядной презентации результатов.
+## 🛠️ Ключевые навыки
 
-Подготовка четких рекомендаций для отдела продаж, маркетинга или команды разработки.
+| Инструмент | Уровень |
+|------------|---------|
+| **SQL (PostgreSQL)** | Сложные запросы, оконные функции, агрегации, CTE |
+| **Python** | pandas, numpy, scipy, seaborn, matplotlib, Jupyter Notebook |
+| **Excel** | Продвинутый: сводные таблицы, Power Query, Power Pivot, ВПР/XLOOKUP |
+| **Power BI** | Построение интерактивных дашбордов |
+| **A/B-тестирование** | Дизайн эксперимента, расчёт MDE, хеширование, статистическая значимость |
+| **Математическая статистика** | Проверка гипотез, доверительные интервалы, распределения |
+| **Бизнес-аналитика** | Когортный и винтажный анализ, unit-экономика, маржинальность |
 
-Карьерная цель:
-Нацелен на позицию Junior Data Analyst в компании с продуктовым подходом. Ищу возможность применять SQL и Python для решения реальных бизнес-задач, автоматизации отчетности и повышения конверсии на основе данных. Готов к быстрому погружению в индустрию и работе в кросс-функциональных командах.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+---
 
+## 📂 Мои проекты
 
-<!--
-**Romatone/Romatone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎬 Анализ онлайн-кинотеатра (SkyCrossroads)
+- Построил когортный анализ, рассчитал Retention и LTV.
+- Исследовал причины падения просмотров сериала, сформулировал гипотезы и рекомендации.
+- Исправил ошибочные ивенты пользователей с помощью Python.
+- **Стек:** SQL, Python (pandas), Jupyter Notebook.
+- [Ссылка на проект](https://github.com/Romatone/SkyCrossroads_analytics) 
 
-Here are some ideas to get you started:
+### 🧟 Анализ метрик мобильной игры (Zombie Revolution)
+- Рассчитал DAU, WAU, MAU, сессии, retention, конверсии.
+- Оценил эффективность маркетинговых кампаний, рассчитал ARPU, ARPPU.
+- Спрогнозировал объём когорт.
+- **Стек:** SQL, Python, Excel.
+- [Ссылка на проект](https://github.com/Romatone/Zombie_Revolution_analytics) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 A/B-тест (SkyLenta)
+- Спроектировал дизайн эксперимента, рассчитал длительность и MDE.
+- Проверил статистическую значимость, подготовил рекомендации.
+- **Стек:** Python (scipy, statsmodels), Jupyter Notebook.
+- [Ссылка на проект](https://github.com/Romatone/AB_Test_SkyLenta) 
+
+---
+
+## 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romatone&show_icons=true&theme=radical&locale=ru)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romatone&layout=compact&theme=radical&locale=ru)
+
+---
+
+## 📫 Контакты
+
+- **Telegram:** [@tgRomaton](https://t.me/tgRomaton)
+- **Email:** alexvas10.05.2003@gmail.com
+- **Резюме:** (https://drive.google.com/file/d/1LzK_yx25GRnYL476CNAYAq24qPTebdXJ/view?usp=drive_link)
+
+---
+
+> *«Люблю стратегические игры — это про планирование и анализ, как и моя работа.»*
