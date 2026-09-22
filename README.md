@@ -62,12 +62,6 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romatone&show_icons=true&theme=radical&locale=ru)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romatone&layout=compact&theme=radical&locale=ru)
-
----
 
 ## 📫 Контакты
 
